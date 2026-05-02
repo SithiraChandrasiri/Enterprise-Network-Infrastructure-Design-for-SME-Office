@@ -127,16 +127,13 @@ Includes core infrastructure, access layer, wireless deployment, and cabling.
 
 ## ⚠️ Disclaimer
 
-This project was originally developed as an academic assignment and has been adapted for portfolio purposes. Some information will be classified due to that reason. The design reflects real-world networking principles but is presented as a conceptual implementation.
-
+This project was originally developed as part of an academic assignment and has been refined for portfolio purposes. Certain implementation details may be generalized or omitted. The design reflects real world networking principles but is presented as a conceptual implementation.
 ---
 
 ## 👤 Team
 
-**Sithira Chandrasiri**
-**Rumesha Nisadi**
-**Sesath Rathnayaka**
-**Sasmi Premathilaka**
-
----
+- **Sithira Chandrasiri**  
+- **Rumesha Nisadi**  
+- **Sesath Rathnayaka**  
+- **Sasmi Premathilaka**
 
